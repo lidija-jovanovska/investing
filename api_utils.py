@@ -60,3 +60,11 @@ class FinancialModelingPrepAPI:
         except Exception as e:
             ratios = {}
         return ratios
+
+    def get_income_statement(self, ticker):
+        url = f'https://financialmodelingprep.com/api/v3/income-statement/{ticker}?period=quarter&apikey={self.api_key}'
+        try:
+            income_statement = self.session.get(url=url, timeout=self.session_timeout).json()
+        except Exception as e:
+            income_statement = {}
+        return income_statement
