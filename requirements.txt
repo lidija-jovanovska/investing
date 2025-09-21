@@ -97,3 +97,129 @@ wcwidth==0.2.13
 webcolors==24.11.1
 webencodings==0.5.1
 websocket-client @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_8c3cjp8r36/croot/websocket-client_1715878317325/work
+altair @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_27xju4dqjd/croot/altair_1743016730076/work
+anyio==4.7.0
+appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699320997592/work
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a2dqjqi0nt/croot/argon2-cffi-bindings_1736182447763/work
+arrow==1.3.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-lru @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/async-lru_1701806219228/work
+attrs @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_3d06zr_mcz/croot/attrs_1734533118470/work
+babel @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_40eit1iehp/croot/babel_1737454384464/work
+beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_74rj45rt1p/croot/beautifulsoup4-split_1718029835783/work
+bleach @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_890sng5pfo/croot/bleach_1732291637871/work
+blinker @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_50ofyjh0pb/croot/blinker_1737448732393/work
+Bottleneck @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_33wnmqdh9g/croot/bottleneck_1731058648266/work
+Brotli @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d7pp3g74_g/croot/brotli-split_1736182638718/work
+cachetools @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f12x4m5uvx/croot/cachetools_1738225252032/work
+certifi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_541lf40aku/croot/certifi_1754570641531/work/certifi
+cffi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_51d1gdg4kr/croot/cffi_1736183297412/work
+cfgv==3.4.0
+charset-normalizer==3.4.1
+click @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_060m0m8my8/croot/click_1754477944034/work
+comm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_aef2nlxc2o/croot/comm_1709322866518/work
+debugpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a5sm9dmihj/croot/debugpy_1736267550163/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+distlib==0.3.9
+executing==2.1.0
+fastjsonschema==2.21.1
+filelock==3.18.0
+fqdn==1.5.1
+gitdb @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_03uw8gknot/croot/gitdb_1753362130955/work
+GitPython @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f76uw0_f83/croot/gitpython_1720455038091/work
+h11 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_14h6x3q_k6/croot/h11_1706652288187/work
+httpcore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2ek8c13vuv/croot/httpcore_1706728466947/work
+httpx @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_74uqix89pr/croot/httpx_1723474816711/work
+identify==2.6.10
+idna==3.10
+ipykernel @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6757k8pgf8/croot/ipykernel_1737662465787/work
+ipython==8.31.0
+isoduration==20.11.0
+jedi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b78vrox9dk/croot/jedi_1733987406492/work
+Jinja2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c4sgka04ic/croot/jinja2_1737760120699/work
+json5 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f7m7nb46i6/croot/json5_1730786807490/work
+jsonpointer==3.0.0
+jsonschema @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_20pyq8pymy/croot/jsonschema_1728486714853/work
+jsonschema-specifications @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jsonschema-specifications_1701805291791/work
+jupyter-events @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ahkeborfn/croot/jupyter_events_1718738118710/work
+jupyter-lsp @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter-lsp-meta_1707339505175/work
+jupyter_client @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e4fuoqieve/croot/jupyter_client_1737570976188/work
+jupyter_core @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_80l8bw91xp/croot/jupyter_core_1718818299834/work
+jupyter_server==2.15.0
+jupyter_server_terminals @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_server_terminals_1701805810278/work
+jupyterlab @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_26g_3s_49c/croot/jupyterlab_1737555430829/work
+jupyterlab_pygments==0.3.0
+jupyterlab_server @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3ak8oma7hk/croot/jupyterlab_server_1725865365518/work
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_76vhch455b/croot/markupsafe_1738584048225/work
+matplotlib-inline @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/matplotlib-inline_1699248719910/work
+mistune==3.1.0
+narwhals @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_d1hwnfxjem/croot/narwhals_1742845967052/work
+nbclient==0.10.2
+nbconvert @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2eojbpwhtf/croot/nbconvert_1728049972177/work
+nbformat @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_a83923jn5m/croot/nbformat_1728049884447/work
+nest-asyncio @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c44_atq5c1/croot/nest-asyncio_1708532677863/work
+nodeenv==1.9.1
+notebook @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_862ahsiwpe/croot/notebook_1738159948966/work
+notebook_shim @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/notebook-shim_1707339593183/work
+numexpr @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9dass5qxdx/croot/numexpr_1752521725325/work
+numpy==2.2.1
+overrides==7.7.0
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_15t4xe1fp0/croot/packaging_1734472125760/work
+pandas==2.2.3
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+parso @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ffagjb_lok/croot/parso_1733963312676/work
+pexpect==4.9.0
+pillow @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_153gp0xp5x/croot/pillow_1738010255299/work
+platformdirs @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/platformdirs_1701805067573/work
+plotly==5.24.1
+pre_commit==4.2.0
+prometheus_client==0.21.1
+prompt-toolkit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4d8kk9w3ed/croot/prompt-toolkit_1704404354789/work
+protobuf @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0aksusx5xk/croot/protobuf_1742419713773/work/bazel-bin/python/dist/protobuf-5.29.3-cp312-abi3-macosx_10_13_x86_64.whl#sha256=a372f3f79cdb309bf15de9fa86fdf282dad7c18ded51a535417254e11df65fb7
+psutil @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ed123tcwwq/croot/psutil_1736369384437/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyarrow @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_38qbz8t7sy/croot/pyarrow_1738239256895/work/python
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699240212223/work
+PySocks @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pysocks_1699239289103/work
+python-dateutil @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_efk5_uakg8/croot/python-dateutil_1716495742183/work
+python-dotenv==1.0.1
+python-json-logger @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_02zk1pjbnn/croot/python-json-logger_1734370027658/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_11bbnopadc/croot/pytz_1752135868440/work
+PyYAML @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_34t43scp15/croot/pyyaml_1728658999838/work
+pyzmq @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_728n2oj6m9/croot/pyzmq_1734709561835/work
+referencing==0.35.1
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+rfc3339-validator @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/rfc3339-validator_1699261389119/work
+rfc3986-validator @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/rfc3986-validator_1699261424790/work
+rpds-py @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_a26ewoe7np/croot/rpds-py_1736546270709/work
+ruff==0.11.7
+Send2Trash==1.8.3
+setuptools==75.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_5frsnzqvnn/croot/smmap_1752748952237/work
+sniffio==1.3.1
+soupsieve==2.6
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+streamlit @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_1e3ri8ngc8/croot/streamlit-split_1754558617404/work/streamlit
+tenacity @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c71tb3i2xv/croot/tenacity_1730302538205/work
+terminado @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/terminado_1699284203253/work
+tinycss2 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_de19zi_a0n/croot/tinycss2_1738339866577/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tornado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a2c0voe1m0/croot/tornado_1733960496093/work
+tqdm==4.67.1
+traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f49losghmg/croot/traitlets_1718227069025/work
+types-python-dateutil==2.9.0.20241206
+typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dn2s8ln8g/croot/typing_extensions_1734714858107/work
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+uri-template==1.3.0
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8bqv7goib8/croot/urllib3_1737133637259/work
+virtualenv==20.30.0
+wcwidth==0.2.13
+webcolors==24.11.1
+webencodings @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/webencodings_1699250987289/work
+websocket-client @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_8c3cjp8r36/croot/websocket-client_1715878317325/work
+wheel==0.44.0
