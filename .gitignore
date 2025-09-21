@@ -4,3 +4,5 @@ data/
 .DS_Store
 experimental/
 __pycache__/
+.vscode/
+.ruff_cache/
